@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Literal \u0026 escape sequence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{138BE41E-5757-49B2-8274-4CD5398C50F5}|Literal \u0026 escape sequence.vcxproj|C:\\Users\\HP\\source\\repos\\Literal \u0026 escape sequence\\Literal \u0026 escape sequence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{138BE41E-5757-49B2-8274-4CD5398C50F5}|Literal \u0026 escape sequence.vcxproj|solutionrelative:Literal \u0026 escape sequence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Literal \u0026 escape sequence.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Literal \u0026 escape sequence\\Literal \u0026 escape sequence.cpp",
+              "RelativeDocumentMoniker": "Literal \u0026 escape sequence.cpp",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Literal \u0026 escape sequence\\Literal \u0026 escape sequence.cpp*",
+              "RelativeToolTip": "Literal \u0026 escape sequence.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-11T10:45:53.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
