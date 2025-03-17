@@ -1,0 +1,3 @@
+﻿  Nested Functions with Enums.cpp
+C:\Users\HP\source\repos\Nested Functions with Enums\Nested Functions with Enums.cpp(23,12): warning C4101: 'Weekday': unreferenced local variable
+  Nested Functions with Enums.vcxproj -> C:\Users\HP\source\repos\Nested Functions with Enums\x64\Debug\Nested Functions with Enums.exe
